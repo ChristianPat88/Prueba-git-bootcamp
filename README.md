@@ -16,3 +16,11 @@ git status
 
 3 Áreas
 
+# Agrego al área de confirmación el archivo/archivos
+
+```sh
+git add <nombre-archivo>
+git add <nombre-archivo> <nombre-archivo> <nombre-arhivo>
+git add . #Agrega todos los archivos
+```
+
