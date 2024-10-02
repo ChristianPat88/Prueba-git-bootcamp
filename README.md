@@ -24,3 +24,5 @@ git add <nombre-archivo> <nombre-archivo> <nombre-arhivo>
 git add . #Agrega todos los archivos
 ```
 
+# Persistimos los cambios agregados al área de confirmación en un commit
+
