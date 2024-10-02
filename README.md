@@ -26,3 +26,13 @@ git add . #Agrega todos los archivos
 
 # Persistimos los cambios agregados al área de confirmación en un commit
 
+```sh
+git commit -m "mensaje descriptivo de lo que tiene el commit"
+```
+
+# Corregir el mensaje del commit
+
+```sh
+git commit --amend -m "el mensaje corregido"
+```
+
